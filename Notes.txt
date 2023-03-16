@@ -1,0 +1,11 @@
+﻿1 Get input
+2 Process data
+3 Display results
+
+Two classes Mainform (client)----> CurrencyExchange (server)
+
+Imprortant that you dont have circular architecture
+
+Methods are only called from mainform to currencyExchange
+
+CurrencyExchange class only has logic. 
